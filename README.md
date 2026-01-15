@@ -1,3 +1,4 @@
+
 # SignAnti: Anti-Gravity AI Sign Language System
 
 > **Vision**: A futuristic anti-gravity environment where communication has no barriers.
@@ -35,3 +36,4 @@ The project aims to facilitate daily life communication, targeting expressions s
 1.  Open `standalone.html`.
 2.  Grant Camera Permissions.
 3.  Perform gestures to see the AI Translation in action.
+
