@@ -118,24 +118,7 @@ B.Tech | AI & Machine Learning
 ⭐ If you like this project
 Give it a ⭐ on GitHub — it really helps!
 
-markdown
-Copy code
 
----
-
-### ✅ What this README does right
-- Recruiter-friendly  
-- Clear **Live Demo link** (VERY important)
-- Explains **impact**, not just code
-- Looks like a **serious AI project**
-- Perfect for LinkedIn / resumes / internships
-
-If you want, next I can:
-- Make it **even more aesthetic** (badges, emojis polish)
-- Rewrite it for **hackathon submission**
-- Shorten it for **portfolio website**
-
-Just say the word 👌
 
 
 
